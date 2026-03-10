@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+</head>
+<body>
+  <p>Redirecting, please wait...</p>
+
+  <script>
+    const RAW_URL = 'https://raw.githubusercontent.com/ogajemukis57-jpg/test/main/hi.json';
+    fetch(RAW_URL)
+      .then(res => res.json())
+      .then(links => {
+        const url = links['vk'];
+        if (url) {
+          window.location.href = url;
+        } else {
+          document.body.innerText = 'no url.';
+        }
+      })
+      .catch(() => {
+        document.body.innerText = 'error.';
+      });
+  </script>
+</body>
+</html>
