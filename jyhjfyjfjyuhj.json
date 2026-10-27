@@ -38,6 +38,26 @@
         "skan_co_sekund": 1,
         "czas_listy_poczatkowej": 30,
         "czas_po_wyslaniu": 2
+      },
+
+      "all": {
+        "rodzaj": "wszyscy_userzy",
+        "reload_vpn" : false,
+        "nick": "amandaxe",
+        "wiek": 24,
+        "plec": "F",
+        "region": null,
+        "profile_dir": "C:\\Users\\Admin\\Documents\\chatiw_wszyscy_userzy_2",
+        "plci_odbiorcow": ["male"],
+        "kraje_odbiorcow": ["gb", "fr", "au", "at", "se", "no", "de", "be", "ch", "us", "ca"],
+        "tresc": "Hey 😉 Want to chat and have a little fun with me? Join me here: tiny.re/holymoly",
+        "tresc_de": "",
+        "tresc_fr": "",
+        "odstep_min": 11,
+        "odstep_max": 15,
+        "skan_co_sekund": 1,
+        "czas_listy_poczatkowej": 30,
+        "czas_po_wyslaniu": 2
       }
 
 
