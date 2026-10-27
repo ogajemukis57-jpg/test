@@ -2,6 +2,7 @@
     "users": {
       "us": {
         "rodzaj": "wszyscy_userzy",
+        "reload_vpn" : false,
         "nick": "nicolexxy",
         "wiek": 25,
         "plec": "F",
@@ -21,6 +22,7 @@
 
       "inne": {
         "rodzaj": "wszyscy_userzy",
+        "reload_vpn" : false,
         "nick": "amandaxe",
         "wiek": 24,
         "plec": "F",
