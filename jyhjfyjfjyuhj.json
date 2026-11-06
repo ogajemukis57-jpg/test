@@ -26,7 +26,7 @@
       "nick": "amandaxe",
       "wiek": 24,
       "plec": "F",
-      "country_id": null,
+      "country_id": 222,
       "region": null,
       "profile_dir": "C:\\Users\\Admin\\Documents\\chatiw_wszyscy_userzy_2",
       "plci_odbiorcow": ["male"],
